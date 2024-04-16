@@ -13,10 +13,10 @@ REST APIs being able to handle requests, parse, and otherwise handle data.
 </li>
 
 <li>Other passions I have in development include automation, web development, web scraping, making relatively simple games, and more using
-langauges such <em>C/C++, python, swift, and others.</em>
+langauges such as<em>C/C++, python, swift, and others.</em>
 </li>
 
-<li>When I'm not coding, I like to I like to travel, play video games, and hang out with friends.
+<li>When I'm not coding, I like to travel, play video games, and hang out with friends.
 </li>
 </ul>
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
