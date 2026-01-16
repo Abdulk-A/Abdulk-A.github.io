@@ -24,4 +24,5 @@ extension String {
 The method only takes one argument which is the index. If the index is out of bounds, it will return an empty string.
 
 ![image](/assets/imgs/2026-01-15/example1.png)
+
 ![image](/assets/imgs/2026-01-15/output1.png)
